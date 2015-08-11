@@ -17,3 +17,4 @@
 ![4](https://cloud.githubusercontent.com/assets/5229241/9203004/2d91fe70-4087-11e5-9b76-c5b7a8363869.png)
 5. 该编辑器使用Markdown语法，如果不了解可以[点击这里](http://www.markdown.cn/)进行学习
 6. 意见的`Label`普通用户无法编辑，我们看到之后会根据内容添加的
+7. 大家一起喵帕斯吧！
