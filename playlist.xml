@@ -1,0 +1,275 @@
+<!--
+
+************************************************************************************************
+
+                这个文件用于百科底部播放器的歌曲名显示~
+	
+                翻译时请注意结合意境，可以先去听一下再翻译~ =-=..
+
+                如果要增加新歌曲的话请加上注释~ 和歌曲的下载地址~
+
+************************************************************************************************
+
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <trackList>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/A Creeper Like You.mp3</location>
+          <title>像爬行者的你 - A Creeper Like You</title>
+        </track>
+    	
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/All I Do Is Dig.mp3</location>
+          <title>挖挖挖 - All I Do Is Dig</title>
+        </track>
+		
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Before Monsters Come.mp3</location>
+          <title>怪来前 - Before Monsters Come</title>
+        </track>
+	
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Creepers Gonna Creep.mp3</location>
+          <title>爬行者在爬 - Creepers Gonna Creep</title>
+        </track>
+	
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Cube Land.mp3</location>
+          <title>方块大陆 - Cube Land</title>
+        </track>
+		
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Diamond.mp3</location>
+          <title>钻石! - Diamond</title>
+        </track>
+	
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Diamonds In The Deep.mp3</location>
+          <title>钻石在深处 - Diamonds In The Deep</title>
+        </track>
+		
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Don't Mine At Night.mp3</location>
+          <title>别在晚上挖矿 - Don't Mine At Night</title>
+        </track>
+	
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Dwarf Hole.mp3</location>
+          <title>矮人洞 - Dwarf Hole</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Enderborn.mp3</location>
+          <title>末影HIM - Enderborn</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Fallen Kingdom.mp3</location>
+          <title>沦陷的王国 - Fallen Kingdom</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Fight the Mobs.mp3</location>
+          <title>与怪战斗 - Fight the Mobs</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Form This Way.mp3</location>
+          <title>通过这种方式 - Form This Way</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/From the Ground Up.mp3</location>
+          <title>与怪战斗 - From the Ground Up</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Glowstone Love.mp3</location>
+          <title>萤石爱 - Glowstone Love</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Greatest Minecraft Video Ever!.mp3</location>
+          <title>最棒的MC视频! - Greatest Minecraft Video Ever!</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Hack That.mp3</location>
+          <title> - Hack That</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I Banned You.mp3</location>
+          <title> - I Banned You</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I Came to Dig.mp3</location>
+          <title> - I Came to Dig</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I CAN SWING MY SWORD!.mp3</location>
+          <title> - I CAN SWING MY SWORD!</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I Hate Creepers.mp3</location>
+          <title>我恨爬行者 - I Hate Creepers</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I Just Found Diamonds.mp3</location>
+          <title>我刚挖到钻石 - I Just Found Diamonds</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I Love My Minecraft World.mp3</location>
+          <title>我爱我的MC世界 - I Love My Minecraft World</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I'll Play Minecraft.mp3</location>
+          <title> - I'll Play Minecraft</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/I'm a Noob.mp3</location>
+          <title>我是熊孩子 - I'm a Noob</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/In Search of Diamonds.mp3</location>
+          <title> - In Search of Diamonds</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/It's Herobrine.mp3</location>
+          <title> - It's Herobrine</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Jeffrey.mp3</location>
+          <title> - Jeffrey</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Join Me Stevie.mp3</location>
+          <title> - Join Me Stevie</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Like An Enderman.mp3</location>
+          <title> - Like An Enderman</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Mine It Out.mp3</location>
+          <title> - Mine It Out</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Mine With Me.mp3</location>
+          <title> - Mine With Me</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Mine.mp3</location>
+          <title> - Mine</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Minecraft Christmas.mp3</location>
+          <title> - Minecraft Christmas</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Minecraft Style.mp3</location>
+          <title> - Minecraft Style</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Mineshaft.mp3</location>
+          <title> - Mineshaft</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Mining Diamonds.mp3</location>
+          <title> - Mining Diamonds</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/My Favorite Things.mp3</location>
+          <title> - My Favorite Things</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Never Say Goodbye.mp3</location>
+          <title> - Never Say Goodbye</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/One More Fright.mp3</location>
+          <title>再来一战 - One More Fright</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Redstone.mp3</location>
+          <title>红石歌 - Redstone</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Revenge.mp3</location>
+          <title>复仇 - Revenge</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Screw The Nether.mp3</location>
+          <title>去他的地狱 - Screw The Nether</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Skelly Heart.mp3</location>
+          <title> - Skelly Heart</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Some Items that I used to Own.mp3</location>
+          <title> - Some Items that I used to Own</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/The Miner.mp3</location>
+          <title> - The Miner</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/This is my Biome.mp3</location>
+          <title>这是我的群系 - This is my Biome</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/TNT.mp3</location>
+          <title>TNT之歌 - TNT</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/Trade Shop.mp3</location>
+          <title> - Trade Shop</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/We're Miners and We Know It.mp3</location>
+          <title> - We're Miners and We Know It</title>
+        </track>
+
+        <track>
+          <location>http://www.mcmod.cn/plugs/dewplayer/files/You Thought I Used XRAY.mp3</location>
+          <title>你以为我用透视 - You Thought I Used XRAY</title>
+        </track>
+
+    </trackList>
+</playlist>
