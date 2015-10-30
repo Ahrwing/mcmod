@@ -7,7 +7,7 @@
 
 ### 反馈流程:
 
-1. 首先请登录或者注册一个GitHub账号
+1. 首先请登录或者注册一个**GitHub账号**
 2. 点击右边的Issues按钮进入反馈区：  
 ![1](https://cloud.githubusercontent.com/assets/5229241/9202439/61299b7e-4084-11e5-80f1-2ab82ba39310.png)
 3. 进入之后你会看到这样的界面：  
