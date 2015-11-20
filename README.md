@@ -10,6 +10,8 @@
 1. 首先请登录或者注册一个**GitHub账号**
 2. 点击右边的Issues按钮进入反馈区：  
 ![1](https://cloud.githubusercontent.com/assets/5229241/9202439/61299b7e-4084-11e5-80f1-2ab82ba39310.png)
+如果是新版视图点击上方的Issues按钮：
+![5](https://cloud.githubusercontent.com/assets/5229241/11308813/60ce2d04-8ffb-11e5-978f-366dd2d7f75e.png)
 3. 进入之后你会看到这样的界面：  
 ![2](https://cloud.githubusercontent.com/assets/5229241/9202512/d50559c0-4084-11e5-82fa-4f31719ca295.png)
 4. 点击右上角的New Issues按钮发起新的意见：  
