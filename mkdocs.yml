@@ -10,3 +10,6 @@ markdown_extensions:
   - sane_lists
 
 theme: readthedocs
+
+extra_css:
+  - css/code.css

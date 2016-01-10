@@ -1,0 +1,8 @@
+code,.rst-content tt {
+  font-size: 100%;
+  background: #F8F8F8
+}
+
+p code {
+  font-size: 80%
+}

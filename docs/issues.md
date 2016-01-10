@@ -5,7 +5,7 @@
 本区仅受理百科的BUG和意见，MC玩法相关提问请转到百科提问区(建设中)
 
 
-## 反馈流程:
+## 反馈流程
 
 1. 首先请登录或者注册一个**GitHub账号**
 2. 进入意见反馈区：[https://github.com/Ahrwing/mcmod/issues](https://github.com/Ahrwing/mcmod/issues)
