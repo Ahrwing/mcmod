@@ -1,5 +1,6 @@
 pages:
   - 主页: 'index.md'
+  - 意见反馈区使用教程: 'issues.md'
 
 site_name: MCMOD百科官方文档
 
