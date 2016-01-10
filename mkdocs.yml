@@ -1,0 +1,11 @@
+pages:
+  - 主页: 'index.md'
+
+site_name: MCMOD百科官方文档
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+theme: readthedocs
