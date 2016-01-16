@@ -3,6 +3,7 @@ pages:
   - 意见反馈区使用教程: 'issues.md'
   - ItemRender使用教程: 'itemrender.md'
   - 模组添加/修改教程: 'mod.md'
+  - 编辑器使用教程与准则: 'editor.md'
 
 site_name: MCMOD百科官方文档
 
