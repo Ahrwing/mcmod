@@ -61,7 +61,7 @@ ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用
 
 ![json](https://cloud.githubusercontent.com/assets/5229241/12271450/1a6bf30e-b996-11e5-8cca-6a55dd01c3d3.png)
 
-导出的文件以modid.json的形式命名，内容包括mod内所有物品的：中文名，英文名，耐久，最大堆叠数量，大图标，小图标(储存为Base64字符串)。**如果你想批量导入物品，请将JSON文件交给编辑员。**
+导出的文件以modid.json的形式命名，内容包括mod内所有物品的：中文名，英文名，最大耐久，最大堆叠数量，大图标，小图标(储存为Base64字符串)。**如果你想批量导入物品，请将JSON文件交给编辑员。**
 
 嘛，导出后游戏的确会有副作用，比如说语言换了什么的，不用这么在意细节是吧_(:з」∠)_
 
