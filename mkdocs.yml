@@ -4,6 +4,7 @@ pages:
   - ItemRender使用教程: 'itemrender.md'
   - 模组添加/编辑教程: 'mod.md'
   - 资料添加/编辑教程: 'data.md'
+  - 日志添加/编辑教程: 'log.md'
   - 编辑器使用教程与准则: 'editor.md'
 
 site_name: MCMOD百科官方文档
