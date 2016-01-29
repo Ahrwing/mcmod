@@ -12,6 +12,12 @@
 
 ![new 2](https://cloud.githubusercontent.com/assets/5229241/12670252/c8d4744e-c6a1-11e5-8166-2a1f9e867770.png)
 
+## 进入修改资料界面
+
+先进入想要修改的资料，点击资料上方的 `编辑` 按钮：
+
+![edit](https://cloud.githubusercontent.com/assets/5229241/12676654/da685d92-c6ce-11e5-91c0-b761871e5829.png)
+
 ## 资料类型
 
 ![type](https://cloud.githubusercontent.com/assets/5229241/12670291/1bd36f6a-c6a2-11e5-9b93-1c989d3ed2d9.png)
