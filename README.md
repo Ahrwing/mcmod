@@ -4,6 +4,8 @@
 
 本区仅受理百科的BUG和意见，MC玩法相关提问请转到百科提问区 (建设中)
 
+MC百科文档：[http://mcmod.rtfd.org](http://mcmod.readthedocs.org/zh/latest/)
+
 
 ### 反馈流程:
 
