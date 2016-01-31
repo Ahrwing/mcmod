@@ -1,5 +1,6 @@
 pages:
   - 主页: 'index.md'
+  - 用户组: 'user.md'
   - 意见反馈区使用教程: 'issues.md'
   - ItemRender使用教程: 'itemrender.md'
   - 模组添加/编辑教程: 'mod.md'
