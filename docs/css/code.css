@@ -10,3 +10,7 @@ p code {
 table.docutils {
   text-align: center;
 }
+
+.wy-nav-content {
+  padding: 1.618em 2.472em;
+}
