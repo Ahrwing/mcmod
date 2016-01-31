@@ -1,8 +1,12 @@
 code,.rst-content tt {
   font-size: 100%;
-  background: #F8F8F8
+  background: #F8F8F8;
 }
 
 p code {
-  font-size: 80%
+  font-size: 80%;
+}
+
+table.docutils {
+  text-align: center;
 }
