@@ -1,3 +1,10 @@
+At the FTB Wiki, we try to keep a fairly consistent tone and style across our articles. It makes the wiki easier to read. This guide page outlines the general style used in the writing of pages and articles. If other guide pages would conflict with this, this page takes precedence. Changes made to this guide should reflect the general consensus, and should be first discussed on the Staff Noticeboard.
+在FTB维基里，我们试图保证一种稳定的文章风格，使维基易于阅读。这个指南页面概述了编写页面和文章时候应当使用的风格。如果其他指南页面与此指南冲突，那么优先参考此页面的规则。对此指南的改动应当体现出大众意见，并且先在员工公告板上讨论。
+
+Use common sense while following this guide. There are occasions when certain rules should be ignored.
+在参考此指南时请运用常识。在某些场合应当忽视掉部分准则。
+
+
 Rules of Thumb
 基本准则
 
@@ -14,7 +21,7 @@ Advertising, vandalism, and spamming are strictly prohibited.
 严格禁止广告以及一切性质的垃圾内容。
 
 Articles should be simple, factual, and technical. Novels should be written elsewhere.
-条目内容应当简明，符合事实且技术向的。不欢迎小说性质的内容。
+文章内容应当简明，符合事实且技术向的。不欢迎小说性质的内容。
 
 Maintain a neutral point of view and encyclopedic tone. We are here for information, not demagoguery.
 保持中立的观点和学术性的风格。我们是来编辑资料的，而不是来煽情的。
@@ -23,7 +30,7 @@ Use Templates when appropriate. All templates have documentation to explain thei
 在合适的时候使用模板。所有模板都有文档说明它们的用途。大多数机器拥有它们自己的合成表模板，参考“合成表指导”来获得更多内容。
 
 When creating an article for an item, do not list all of its crafting uses; the FTB Wiki accepts it cannot compete against modern utilities like NEI in this area. However, a short description of its major uses is acceptable.
-当为一件物品创建一个条目时，不要列出它所有的可合成列表（因为这样往往会大大扩展文章的长度）。FTB wiki在这方面可比不上NEI。但是一个关于其主要用途的说明是可以被接受的。
+当为一件物品创建一个文章时，不要列出它所有的可合成列表（因为这样往往会大大扩展文章的长度）。FTB wiki在这方面可比不上NEI。但是一个关于其主要用途的说明是可以被接受的。
 
 When referencing modpacks, please use the word "modpacks" not "mod packs", "mod-packs", etc.x
 
@@ -41,7 +48,7 @@ Plagiarizing
 抄袭、剽窃
 
 Creation of original content is by far preferable when creating articles. Plagiarism is strictly prohibited. Editors found to be plagiarizing will be warned for their first offense.
-在编写条目的时候，强力推荐使用原创内容。严禁抄袭、剽窃行为。被发现有剽窃行为的编辑者，第一次将会被警告。
+在编写文章的时候，强力推荐使用原创内容。严禁抄袭、剽窃行为。初犯者将会被警告。
 
 Copied content that falls under fair use may be used but must be properly cited.
 可以使用合适的复制于其他地方的内容，但是必须正确注明引用行为。
@@ -68,24 +75,24 @@ Linking to other wikis is not prohibited, if you feel that such links would cont
 不禁止指向其他维基的链接，如果你认为这样的链接对于提升编辑的质量有帮助的话。相关友链可以在“项目：管理员公告板”上找到。
 
 It is however recommended that editors only contribute to one wiki at a time, to ensure they do not inadvertently violate the copyright policies of the wikis they edit.
-但是建议编辑者一次只引用一条维基链接，以免无意间触犯他们所引用的维基自己的版权政策。
+但是建议编辑者一次只引用一条维基链接，以免无意间触犯所引用的维基自己的版权政策。
 
 
 Article titles, headings, and sections
-条目标题与段落格式
+文章标题与段落格式
 
 Article titles and section heading should reflect the content they contain. Titles and section headings should be concise and precise. Titles should be consistent with the titles of related content.
-条目标题和段落标题应当反映出它们将要叙述的内容。它们应当是简明扼要的。
+文章标题和段落标题应当反映出它们将要叙述的内容。它们应当是简明扼要的。
 
 Article titles
-条目标题
+文章标题
 
 Capitalize letters in a title as they would be capitalized in a sentence.x
 
 The first letter of a title will always be automatically capitalized.x
 
 Articles on items should be titled exactly as the items appear in game. If multiple mods add items of the same name, append the full mod name in parentheses to the title. (For example, Wrench (BuildCraft)).
-条目里的物品名称必须与它在游戏内的名称严格一致。如果多个mod添加了同名的物品，那么在标题里以括号形式附上完整的mod名称（如“扳手（BuildCraft）”）
+文章里的物品名称必须与它在游戏内的名称严格一致。如果多个mod添加了同名的物品，那么在标题里以括号形式附上完整的mod名称（如“扳手（BuildCraft）”）
 
 Do not use A, An, The as the beginning of a title, unless it is an inseparable part of a name.
 不要在标题的开头使用“一个”这样的词语，除非这是物品名称中不可分割的一部分。
@@ -100,10 +107,10 @@ Section organization
 组织段落
 
 An article must always start with an introductory lead section. The lead section must provide an overview of the entire article. A Table of Contents will be automatically inserted after the lead section if enough sections exist in the article.
-一个条目必须以一段简介段落开头。此简介必须提供对整篇条目的概览。【若条目内有足够多的段落则会自动在简介之后插入一个目录】
+一个文章必须以一段简介段落开头。此简介必须提供对整篇文章的概览。【若文章内有足够多的段落则会自动在简介之后插入一个目录】
 
 An article that expands upon a section may be linked with {{Main}} and related articles may be linked with {{See also}}.
-由一个段落扩展而成的一个条目可以使用{{Main}}链接，与之相关的条目可以使用{{See also}}链接
+由一个段落扩展而成的一个文章可以使用{{Main}}链接，与之相关的文章可以使用{{See also}}链接
 
 More information regarding the layout and order of sections can be found in the Project:Article creation guideline.
 有关布局和段落顺序的更多内容请参见“项目：条目创建指南”。
@@ -123,7 +130,7 @@ With spaces: == Recipe ==
 Without: ==Recipe==
 
   It is more important to keep consistency in an article than to follow your preferred method.
-  在条目里保证连贯性要比保持个人风格更重要。
+  在文章里保证连贯性要比保持个人风格更重要。
   
 Level 1 headings (= Level 1 heading =) must never be used.
 禁止使用一级标题。
@@ -138,7 +145,7 @@ Linking to sections
 指向段落的链接
 
 Links can be created to link to specific sections by using #section name. To link to a section within the same page, use: [[#section name|]]; to link to a section on another page, use: [[Page title#section name|]]. Should a section name be repeated within an article, _2, _3 and so on will be appended to the anchor name to each subsequent appearances in the article.
-可以使用#section name来创建链接以链接至指定段落。要创建一个指向页面内段落的链接，请使用[[#section name|]]；如果要链接另一个页面，请使用[[Page title#section name|]]。如果一个段落名称在条目内多次出现，应当在后面出现的名称里加入_2、_3这样的锚点名。
+可以使用#section name来创建链接以链接至指定段落。要创建一个指向页面内段落的链接，请使用[[#section name|]]；如果要链接另一个页面，请使用[[Page title#section name|]]。如果一个段落名称在文章内多次出现，应当在后面出现的名称里加入_2、_3这样的锚点。
 
 To avoid links being invalidated when a linked section's name is changed, it is recommended to add a comment in the section heading. For example:
 为防止因段落名变更而导致的链接失效，建议在段落标题里加入注释。比如：
@@ -175,7 +182,7 @@ Quotes should not be in italics.
 引用内容不能使用斜体
 
 Quotes should retain any errors, marked with {{Sic}} when appropriate, case and formatting.
-引用时应当保留原文的可能的错误，并在适当的场合使用{{Sic}}字段标记出来。
+引用时应当保留原文的可能的错误，并在适当的情况下使用{{Sic}}字段标记出来。
 
 Quotes may be put in {{QuoteBox}} or {{Quote}} if long enough, or when appropriate.
 如果引用的内容很长或者有其他特殊要求，应当使用{{QuoteBox}}或{{Quote}}字段来引用文本。
@@ -347,19 +354,19 @@ These are by no means strict rules, but they may provide some solutions in case 
   You can do X thing with this block.
   你可以做xxx的事情，使用这个方块。（错）
     Instead, write The player can X with this block.
-	相对的，写成“玩家可以用这个方块做xxx。”
+    相对的，写成“玩家可以用这个方块做xxx。”
 	
   This is one of the first machines you will make in the mod.
   这个是你在发展这个mod的时候，第一批需要造出的机器之一。（错）
     Instead, write This is a low-tier machine, that is typically available early in the mod's progression.
-	相对的，写成“这是一台低阶机器，通常在发展mod的早期即可制造。”
+    相对的，写成“这是一台低阶机器，通常在发展mod的早期即可制造。”
     This sentence would be fine in a guide, but not a standard article.
-	这样的句子可以放在指南里，但不适合一篇基础文章。
+    这样的句子可以放在指南里，但不适合一篇基础文章。
 	
   Note that the machine can do this, but only under these circumstances
   注意此机器可以做这些，但仅限以下这些场合
     The machine is able to do this, but only under these circumstances
-	此机器能够做这些，但仅限以下这些场合
+    此机器能够做这些，但仅限以下这些场合
 	
 If there are more examples needed, please contact a staff member.
 如果需要更多的例子，请联系维基成员。
