@@ -1,43 +1,46 @@
-At the FTB Wiki, we try to keep a fairly consistent tone and style across our articles. It makes the wiki easier to read. This guide page outlines the general style used in the writing of pages and articles. If other guide pages would conflict with this, this page takes precedence. Changes made to this guide should reflect the general consensus, and should be first discussed on the Staff Noticeboard.
+# Feed The Beast Wiki:Manual of Style  
+# Feed The Beast Wiki格式手册
+
+At the FTB Wiki, we try to keep a fairly consistent tone and style across our articles. It makes the wiki easier to read. This guide page outlines the general style used in the writing of pages and articles. If other guide pages would conflict with this, this page takes precedence. Changes made to this guide should reflect the general consensus, and should be first discussed on the Staff Noticeboard.  
 在FTB维基里，我们试图保证一种稳定的文章风格，使维基易于阅读。这个指南页面概述了编写页面和文章时候应当使用的风格。如果其他指南页面与此指南冲突，那么优先参考此页面的规则。对此指南的改动应当体现出大众意见，并且先在员工公告板上讨论。
 
-Use common sense while following this guide. There are occasions when certain rules should be ignored.
+Use common sense while following this guide. There are occasions when certain rules should be ignored.  
 在参考此指南时请运用常识。在某些场合应当忽视掉部分准则。
 
 
-Rules of Thumb
-基本准则
+## Rules of Thumb  
+## 基本准则
 
-Use common sense.
++ Use common sense.  
 运用常识。
 
-If you need advice, ask a Staff member for advice. They are always welcome to help.
++ If you need advice, ask a Staff member for advice. They are always welcome to help.  
 如果你需要建议，请咨询管理员。他们随时乐意帮忙。
 
-Do not copy content from outside sources. Originality is greatly preferred.
++ Do not copy content from outside sources. Originality is greatly preferred.  
 不要从外部来源拷贝信息。强烈推荐原创内容。
 
-Advertising, vandalism, and spamming are strictly prohibited.
-严格禁止广告以及一切性质的垃圾内容。
++ Advertising, vandalism, and spamming are strictly prohibited.  
+严格禁止广告、蓄意破坏以及垃圾内容。
 
-Articles should be simple, factual, and technical. Novels should be written elsewhere.
++ Articles should be simple, factual, and technical. Novels should be written elsewhere.  
 文章内容应当简明，符合事实且技术向的。不欢迎小说性质的内容。
 
-Maintain a neutral point of view and encyclopedic tone. We are here for information, not demagoguery.
++ Maintain a neutral point of view and encyclopedic tone. We are here for information, not demagoguery.  
 保持中立的观点和学术性的风格。我们是来编辑资料的，而不是来煽情的。
 
-Use Templates when appropriate. All templates have documentation to explain their usage. Most machines have their own crafting grid templates; see the Crafting Grid Guide for more information.
++ Use Templates when appropriate. All templates have documentation to explain their usage. Most machines have their own crafting grid templates; see the Crafting Grid Guide for more information.  
 在合适的时候使用模板。所有模板都有文档说明它们的用途。大多数机器拥有它们自己的合成表模板，参考“合成表指导”来获得更多内容。
 
-When creating an article for an item, do not list all of its crafting uses; the FTB Wiki accepts it cannot compete against modern utilities like NEI in this area. However, a short description of its major uses is acceptable.
++ When creating an article for an item, do not list all of its crafting uses; the FTB Wiki accepts it cannot compete against modern utilities like NEI in this area. However, a short description of its major uses is acceptable.  
 当为一件物品创建一个文章时，不要列出它所有的可合成列表（因为这样往往会大大扩展文章的长度）。FTB wiki在这方面可比不上NEI。但是一个关于其主要用途的说明是可以被接受的。
 
-When referencing modpacks, please use the word "modpacks" not "mod packs", "mod-packs", etc.x
++ When referencing modpacks, please use the word "modpacks" not "mod packs", "mod-packs", etc.
 
-When creating pages, use categories. Every page should fit within at least one category, and may be in more than one.
++ When creating pages, use categories. Every page should fit within at least one category, and may be in more than one.  
 在创建页面时候，请注明它的类别。每一个页面都至少在一个类别中，也可能是多个。
 
-Do not randomly create new categories; use common sense, and try to use the categories in place. If you feel a new category should be added, place a message on the article's Talk page or on the Staff Noticeboard.
++ Do not randomly create new categories; use common sense, and try to use the categories in place. If you feel a new category should be added, place a message on the article's Talk page or on the Staff Noticeboard.  
 不要随意创建新类别。动用常识，试着使用已有的适当的类别。如果你确定要添加一个新的类别，请先在文章的讨论区或者员工公告板里询问意见。
 
 
