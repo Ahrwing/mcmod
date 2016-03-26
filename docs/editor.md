@@ -8,7 +8,7 @@
 
 ####富文本
 
-<img src="http://c.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=1b32dda36759252da717190004ab384a/8694a4c27d1ed21bcc3f115caa6eddc450da3f90.jpg">（此处应有介绍）
+<img src="http://c.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=1b32dda36759252da717190004ab384a/8694a4c27d1ed21bcc3f115caa6eddc450da3f90.jpg">就和正常编辑器同样的使用方法，这里应该不用说了。
 
 ####Markdown
 
