@@ -4,7 +4,7 @@
 
 ###编辑器类型
 
-编辑器有两种类型：富文本和Markdown，可在个人中心更换。![2](http://b.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=4150374e983df8dca23d8b95fd2149fa/d6ca7bcb0a46f21f8f9667eaf1246b600d33aeec.jpg)
+编辑器有两种类型：富文本和Markdown，可在个人中心更换. ![2](http://b.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=4150374e983df8dca23d8b95fd2149fa/d6ca7bcb0a46f21f8f9667eaf1246b600d33aeec.jpg)
 
 ####富文本
 
