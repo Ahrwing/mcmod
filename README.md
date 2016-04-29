@@ -1,8 +1,10 @@
 ## MC百科意见反馈区
 
-意见反馈区迁移至这里，点击右边的 “Issue” 按钮进入反馈区 ~
+意见反馈区迁移至这里，点击上边的 `Issues` 按钮进入反馈区 ~
 
-本区仅受理百科的BUG和意见，MC玩法相关提问请转到百科提问区 (建设中)
+本区仅受理百科的BUG和意见，MC玩法相关提问请转到百科论坛[MOD讨论区](http://bbs.mcmod.cn/forum-31-1.html)
+
+**反馈之前请先搜索！！！** **反馈之前请先搜索！！！** **反馈之前请先搜索！！！**
 
 MC百科文档：[http://mcmod.rtfd.org](http://mcmod.readthedocs.org/zh/latest/)
 
