@@ -117,3 +117,7 @@ ItemRender添加了一条指令 `/itemrender scale [value]`以解决物品/生�
 - **RenderEntityGrid**：生物渲染小图标分辨率
 - **RenderEntityMain**：生物渲染大图标分辨率
 - **RenderPlayer**：玩家渲染分辨率
+
+## 错误
+
+如果在修改按键界面看到 `OpenGL Error` 的提示，那说明你的电脑不支持OpenGL 3.2及以上版本，请考虑升级驱动或者显卡。
