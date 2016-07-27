@@ -1,6 +1,6 @@
 # 编辑小组
 
-## MOD
+## MOD相关
 
 ### 无编辑小组时
 
@@ -36,6 +36,7 @@
 - 具有基本资料编辑能力
 - 编辑资料数目较多，且编辑质量良好
 - 对该MOD有充分的了解
+
 
 
 参考：[关于审核员/版主申请的种种](http://bbs.mcmod.cn/forum.php?mod=viewthread&tid=140#lastpost)
