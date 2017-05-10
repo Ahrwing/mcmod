@@ -56,11 +56,11 @@
 	
         然后点击“我的相册”，进入论坛相册页面。
 	
-	![image](https://cloud.githubusercontent.com/assets/20513115/25803961/1c1ba32c-342c-11e7-9d9e-e855af09c8c8.png)
+![image](https://cloud.githubusercontent.com/assets/20513115/25803961/1c1ba32c-342c-11e7-9d9e-e855af09c8c8.png)
 	
         点击右上角的“上传图片”，进入图片上传页。
 	
-	![image](https://cloud.githubusercontent.com/assets/20513115/25805102/fc3add48-3430-11e7-80d3-01f8022f2541.png)
+![image](https://cloud.githubusercontent.com/assets/20513115/25805102/fc3add48-3430-11e7-80d3-01f8022f2541.png)
 	
         点击“选择文件上传”，选择电脑中的图片进行上传。
 	
@@ -68,7 +68,7 @@
 	
         图片上传成功后会自动跳转到相册页，点击上传的那张图片，进入图片详情页，**复制图片下方的“此图片地址”**。
 	
-	![image](https://tuchuang001.com/images/2017/05/08/2017-05-08210854.png)
+![image](https://cloud.githubusercontent.com/assets/20513115/25805750/687e36a6-3433-11e7-9858-7346750b1967.png)
 	
         该链接即为图片链接，可用于百科及站外服务。
 	
