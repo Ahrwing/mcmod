@@ -18,13 +18,13 @@
 
 ![4](https://cloud.githubusercontent.com/assets/5229241/14761415/68ffb4c2-0993-11e6-9fca-8a9cd8f0a02e.jpg)
 
-使用Markdown语言进行编辑，如果不了解可以点击[这里](https://github.com/younghz/Markdown/blob/master/README.md)或者[这里](http://www.markdown.cn/)进行学习(前面一篇更适用于新手)。
+使用Markdown语言进行编辑，如果不了解可以点击[这里](http://younghz.github.io/Markdown/)或者[这里](https://coding.net/help/doc/project/markdown.html)进行学习(前面一篇更适用于新手)。
 
 ## 用语与排版准则
 
 ### 用语
 
-待讨论
+参见[百科主站编辑规范](https://bbs.mcmod.cn/thread-646-1-1.html)。
 
 ### 排版
 
