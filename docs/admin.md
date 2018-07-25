@@ -62,7 +62,7 @@
 
 注：GUI上的这个白条基本上都是2像素的宽度，所以说如果那么再移动1像素即可。如果你的GUI不是的话，那么就继续移动，直到刚离开了白条（那时候也就是1像素），再移动回1像素即可。方法如GIF所示：
 
-![](http://bbs.mcmod.cn/data/attachment/album/201807/24/234117sxuq4989dc9ygnnd.gif)
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/091637p5nrfs34q3rx1c71.gif)
 
 当 添加并对齐完 物品格子之后，需要设置 各格子的属性，基本只有3种（燃料格子不用设置概率）：
 
@@ -70,7 +70,23 @@
 
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/24/235649d9uhkzhw0m3m3up0.png)
 
-* 设置概率：即此格子是否允许设置概率。
+* 设置概率：即此格子是否允许设置概率。如果不允许则默认设置为100%；允许则编辑/添加合成表时，下面会给出概率设置（如下图）
+
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/092357ea1q9q591qnw6936.png)
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/092357zfvqpiojfpdjjop2.png)
+
+显示效果如下：
+
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/092850tj3ijg11jv2zopbo.png)
+
+* 单位：即此格子是否拥有单位。如果要设置的格子是类似流体槽等拥有单位的格子，则填入单位。之后编辑/添加合成表时，下面会给出设置，且显示时也会有相应调整。如下图：
+
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/113831rora70fa0wfbzz3r.png)
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/113829jx7g8fblb769bflg.png)
+
+注：图1需要格子允许设置数量。
+
+
 
 ### 模组元素管理
 
