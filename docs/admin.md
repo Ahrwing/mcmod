@@ -40,15 +40,26 @@
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/22/214130upzfnsnsix5ixc4r.png)
 
 旁边的，GUI对应资料ID就是这个合成GUI的来源方块。例如原版的烧制GUI来自于熔炉，那么这里就相应的填“熔炉“这个物品在百科的ID；但例如沉浸工程的[HOP石墨粉](https://www.mcmod.cn/item/30915.html)必须要工业挤压机这个多方块结构才能合成，那么这里就要填写“工业挤压机”这个多方块结构的ID。ID可于[资料列表](#%E8%B5%84%E6%96%99%E5%88%97%E8%A1%A8)查看。之后点击左下的`选择文件`上传你所做的GUI图片。
+
 然后再分别添加*材料*、*成品*、<em>燃料（随情况选择）</em>物品格子，并使用鼠标、`WSAD`键、`上下左右键`和`Shift键`将其移动到GUI图片上相应的格子上。具体效果如图：
 
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/24/224023zv4ucd7i3nkdcqqv.png)
 
 **要求的效果是：物品格子 对齐并严格贴合 GUI的格子，位置正确，最后是保证合成表使用时不出现问题。**
 
-注1：无论是材料、成品、燃料物品格子还是之后说到的能量条目，每个最多只能添加100个！
+如果你添加格子的时候不小心添加错了一个物品格子**想删除**，那么就双击此物品格子，它就会被删除。如GIF所示：
+
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/121100dxjz5cez1zv4yi4z.gif)
+
+但是如果你GUI一次没有添加完**想隐藏格子**，那么就在右侧把没做完的格子的坐标改成(0,0)，此时**格子会保留，不会在 GUI管理的样式处和显示合成表时 显示，但会在添加/编辑合成表时显示**。具体效果如下列图：
+
+![](http://bbs.mcmod.cn/data/attachment/album/201807/25/121824vdzz5oy6yddztmtv.png) ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/121824tz19a3ligctniug6.png) ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/121948i1bplfmp66fp7fpw.png) ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/121824xkx53km663axo3sz.png)
+
+注1：无论是材料、成品、燃料物品格子还是之后说到的能量条目，每个最多只能添加100个！但是目前无法在添加GUI时同时添加能量条目(见#519)
 
 注2：`上下左右键`或`WSAD键`只能把移动1像素，但按住Shift后就会移动10格。
+
+---
 
 当然对齐GUI上的格子是一个非常艰难的过程，此处提供一个对齐准确的方法：
 
@@ -64,7 +75,7 @@
 
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/091637p5nrfs34q3rx1c71.gif)
 
-当 添加并对齐完 物品格子之后，需要设置 各格子的属性，基本只有3种（燃料格子不用设置概率）：
+当 添加并对齐完 物品格子之后，需要设置 各格子的属性，基本只有3种（燃料格子无需设置概率）：
 
 * 设置数量：即此格子是否允许设置物品的数量。如果不允许则数量默认为1；允许则编辑/添加合成表时，下面会给出数量设置（如下图）
 
@@ -85,8 +96,6 @@
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/113829jx7g8fblb769bflg.png)
 
 注：图1需要格子允许设置数量。
-
-
 
 ### 模组元素管理
 
