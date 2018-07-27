@@ -10,7 +10,7 @@ pages:
   - 合成表添加/编辑教程: 'recipe.md'
   - 日志添加/编辑教程: 'log.md'
   - 编辑器使用教程与准则: 'editor.md'
-  - 百科后台: 'admin.md'
+  - 后台使用教程: 'admin.md'
 
 site_name: MCMOD百科官方文档
 
