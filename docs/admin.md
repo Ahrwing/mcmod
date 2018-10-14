@@ -96,6 +96,12 @@
 
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/092850tj3ijg11jv2zopbo.png)
 
+同时也允许使用概率来表示不消耗的物品。这时需要在相应物品的概率处填入"-1"即可。显示效果如下：
+
+![](http://bbs.mcmod.cn/data/attachment/album/201810/14/162727s5ii8a8qa4n8g06n.png)
+
+![](http://bbs.mcmod.cn/data/attachment/album/201810/14/162727hq1gpp8fzq68s8ls.png)
+
 * 单位：即此格子是否拥有单位。如果要设置的格子是类似流体槽等拥有单位的格子，则填入单位。之后编辑/添加合成表时，下面会给出设置，且显示时也会有相应调整。如下图：
 
 ![](http://bbs.mcmod.cn/data/attachment/album/201807/25/113831rora70fa0wfbzz3r.png)
