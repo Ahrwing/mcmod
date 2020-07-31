@@ -2,7 +2,7 @@
 
 意见反馈区已迁移至Github，地址为：[https://github.com/Ahrwing/mcmod/issues](https://github.com/Ahrwing/mcmod/issues)
 
-本区仅受理百科的BUG和意见，MC玩法相关提问请转到[论坛](https://bbs.mcmod.cn/)。
+本区仅受理[MC百科](https://www.mcmod.cn/)相关的BUG和意见，MC玩法相关提问请转到[论坛](https://bbs.mcmod.cn/)。
 
 
 ## 反馈流程

@@ -1,8 +1,6 @@
 # ItemRender使用教程
 
-ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用的是专门定制的修改版本。修改版本目前支持1.7.x至1.12.x版本，最主要的新加功能为批量导出。如果想要下载请去：
-
-- [百科下载](https://www.mcmod.cn/download/1166.html)
+ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用的是专门定制的修改版本。修改版本目前支持1.7.x至1.12.x版本，最主要的新加功能为批量导出。如果想要下载请前往：[百科下载](https://www.mcmod.cn/download/1166.html)
 
 ## 基础功能
 
@@ -24,15 +22,13 @@ ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用
 
 如果你发现导出的图片中方块/物品超过图片的大小，请看下面高级功能部分的指令部分。
 
-!!! note
-
-	如果安装了Not Enough Items(NEI)，你也可以使用NEI的Item Panel批量导出物品图标。进入方法为：Options->Tools->Data Dumps->Item Panel->PNG
-
-	如下图：
-
-	![nei](https://cloud.githubusercontent.com/assets/5229241/12268873/aaff74fc-b989-11e5-8517-c47b4eb511dc.png)
-
-	点击左边的32x32按钮可以切换分辨率。导出的文件会输出到 `.minecraft/itempanel_icons/` 文件夹。
+>如果安装了Not Enough Items(NEI)，你也可以使用NEI的Item Panel批量导出物品图标。
+>
+>进入方法为：Options->Tools->Data Dumps->Item Panel->PNG
+>如下图：
+>![nei](https://cloud.githubusercontent.com/assets/5229241/12268873/aaff74fc-b989-11e5-8517-c47b4eb511dc.png)
+>
+>点击左边的32x32按钮可以切换分辨率。导出的文件会输出到 `.minecraft/itempanel_icons/` 文件夹。
 
 ### 导出生物
 
@@ -63,14 +59,13 @@ ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用
 导出的文件以modid.json的形式命名，内容包括mod内所有物品的：中文名，英文名，最大耐久，最大堆叠数量，大图标，小图标(储存为Base64字符串)。**如果你想批量导入物品，请将JSON文件交给编辑员。**
 
 嘛，导出后游戏的确会有副作用，比如说语言换了什么的，不用这么在意细节是吧_(:з」∠)_
+<br>
+<br>
+注意ItemRender导出的JSON文件和NEI在Item Panel导出的JSON是完全不同的！
 
-!!! warning
+ItemRender导出的JSON文件为百科定制，只有ItemRender的JSON才能正常导入。
 
-	注意ItemRender导出的JSON文件和NEI在Item Panel导出的JSON是完全不同的！！！
-
-	ItemRender导出的JSON文件为百科定制，只有ItemRender的JSON才能正常导入。
-
-	而NEI的JSON文件为物品的NBT数据(具体见：[http://www.mcmod.cn/post/189.html](http://www.mcmod.cn/post/189.html))。
+而NEI的JSON文件为物品的NBT数据(具体见：[http://www.mcmod.cn/post/189.html](http://www.mcmod.cn/post/189.html))。
 
 ## 高级功能
 
