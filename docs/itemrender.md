@@ -1,6 +1,7 @@
 # ItemRender使用教程
 
-ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用的是专门定制的修改版本。修改版本目前支持1.7.x至1.12.x版本，最主要的新加功能为批量导出。如果想要下载请前往：[百科下载](https://www.mcmod.cn/download/1166.html)
+ItemRender原作者为[Kobata](https://github.com/Kobata)，MCMOD百科现使用的是专门定制的修改版本。修改版本目前支持1.7.10至1.14.4版本，最主要的新加功能为批量导出json。  
+下载请前往：[百科下载](https://www.mcmod.cn/download/1166.html)
 
 ## 基础功能
 

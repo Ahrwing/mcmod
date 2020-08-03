@@ -3,6 +3,7 @@
 ## 使用教程
 
 ### 编辑器类型
+<span style="color:red;">目前百科只允许使用富文本编辑器，Markdown待定。</span>
 
 编辑器有两种类型：富文本和Markdown，可在个人中心的论坛设置选项卡内更换(或者点击[这里](http://bbs.mcmod.cn/home.php?mod=spacecp&ac=profile&op=info))：
 
