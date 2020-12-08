@@ -14,14 +14,28 @@ MC百科后台内含有许多高级功能，如合并资料、批量修改分类
 
 这是后台首页，包含`常用链接`、`联系方式`以及`编辑员列表`。
 
-![image](https://cdn.jsdelivr.net/gh/mamaruo/Image/mcmodDoc/%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5(20200820).png)
+![](https://i.mcmod.cn/editor/upload/20201208/1607441093_14273_JqpH.png)
+<hr style="border:3 double" width="80%" align="left">
+<details><summary>历史截图（点击展开/收起）</summary>
+<hr style="border:3 double" width="30%" align="left">
+
+2020年8月25日
+![image](https://i.mcmod.cn/editor/upload/20200825/1598331197_14273_JdBE.png)
+2020年5月1日
+![](https://user-images.githubusercontent.com/20513115/80804688-79c74f00-8be8-11ea-99f2-4a8ace297d21.png)
+2018年7月
+
+![](https://user-images.githubusercontent.com/20513115/43041709-c1ac7bb8-8d9a-11e8-8adb-dd5af34a7294.png)
+
+</details><hr style="border:3 double" width="80%" align="left"><br/>
+
 填写联系方式有助于商讨百科事务时方便地找到您，除了QQ号，还可写上电子邮箱。填写完后点击`更新`来保存。
 
 点击左侧按钮进入相关功能区域。
 
 >[info] 图示“管理员”以下的功能按钮需要成为任一模组的管理员才会显示。
+> 图示“整合包区”仅资深编辑员可用。
 
-[返回页首](#页首)
 ## 模组管理
 
 ### 模组日志管理
