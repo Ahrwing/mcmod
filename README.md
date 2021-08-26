@@ -9,19 +9,16 @@
 MC百科文档：[http://help.qwq.fun/](http://help.qwq.fun/)
 
 
-### 反馈流程:
+### 反馈流程
 
-1. 首先请登录或者注册一个**GitHub账号**。
-2. 点击右边的`Issues`按钮进入反馈区：  
-![1](https://cloud.githubusercontent.com/assets/5229241/9202439/61299b7e-4084-11e5-80f1-2ab82ba39310.png)  
-如果是新版视图点击上方的Issues按钮：  
-![5](https://cloud.githubusercontent.com/assets/5229241/11308813/60ce2d04-8ffb-11e5-978f-366dd2d7f75e.png)
-3. 进入之后你会看到这样的界面：  
-![2](https://cloud.githubusercontent.com/assets/5229241/9202512/d50559c0-4084-11e5-82fa-4f31719ca295.png)
-4. 点击右上角的`New Issue`按钮发起新的意见：  
-![3](https://cloud.githubusercontent.com/assets/5229241/9202587/28f4cdfe-4085-11e5-94d8-69b4e81fa569.png)
-5. 进入之后你会看到编辑器界面：  
-![4](https://cloud.githubusercontent.com/assets/5229241/9203004/2d91fe70-4087-11e5-9b76-c5b7a8363869.png)
-6. 该编辑器使用Markdown语法，如果不了解可以点击[这里](http://younghz.github.io/Markdown/)或者[这里](https://markdown-zh.readthedocs.io/en/latest/)进行学习。(前面一篇更适用于新手)
-7. 意见的`Label`普通用户无法编辑，我们看到之后会根据内容添加的。
-8. 大家一起喵帕斯吧！
+1. 首先请登录或者[注册](https://github.com/signup)一个GitHub账号。
+2. 进入[意见反馈区](https://github.com/Ahrwing/mcmod/issues)，界面如下：
+![](https://i.mcmod.cn/editor/upload/20210705/1625479072_14273_ycxp.png)
+4. 首先搜索之前有没有类似问题提出过，需将搜索框中的`is:open`删除。
+5. 如果没有类似问题，点击右上角的`New issue`按钮发起新的意见。
+6. 进入之后你会看到编辑器界面：
+![](https://i.mcmod.cn/editor/upload/20210705/1625480361_14273_KsAX.png)
+> GitHub 没有提供中文界面，上图中的文字是为了演示而后期合成的。
+7. 把要展示的文件或图片通过拖拽、粘贴或点击下方的那行字来上传。
+8. 编辑器使用 Markdown，一般来说不需要学习，提交 issue 时点击 `preview` 预览是否有不符合预期的内容即可。如有需要可以前往[菜鸟教程](https://www.runoob.com/markdown/md-title.html)学习。
+9. 大家一起喵帕斯吧！
